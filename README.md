@@ -1,6 +1,6 @@
 # Hi, I'm Palak 👋
 
-📊 Aspiring Data Analyst & ML Enthusiast  
+📊 Aspiring AI Engineer & ML Enthusiast  
 💻 Building projects with Python, SQL & Power BI  
 🚀 Learning and growing every day
 
