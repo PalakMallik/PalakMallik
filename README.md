@@ -13,6 +13,15 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 
 ## 📌 Featured Projects
-- Netflix EDA
-- Credit Card Fraud Detection
-- Spotify Power BI Dashboard
+
+- 🎮 [Hand Gesture Control System](https://github.com/PalakMallik/hand-gesture-control)  
+  Real-time gesture recognition using Python, OpenCV & MediaPipe.
+
+- 💳 [Credit Card Fraud Detection](https://github.com/PalakMallik/Credit-Card-Fraud-Detection)  
+  ML-based fraud transaction detection system.
+
+- 📊 [Netflix EDA](https://github.com/PalakMallik/Netflix_EDA)  
+  Exploratory Data Analysis on Netflix dataset.
+
+- 🎵 [Spotify Power BI Dashboard](https://github.com/PalakMallik/spotify-powerbi-dashboard)  
+  Interactive dashboard built using Power BI.
