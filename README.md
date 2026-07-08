@@ -38,6 +38,10 @@
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
@@ -76,7 +80,7 @@ Machine Learning project for identifying fraudulent transactions using classific
 
 Exploratory Data Analysis project uncovering insights from Netflix datasets.
 
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib, SeaBorn
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
