@@ -94,6 +94,35 @@ Interactive dashboard visualizing Spotify streaming trends and analytics.
 
 ---
 
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=PalakMallik&show_icons=true&theme=tokyonight&hide_border=true"
+alt="GitHub Stats"/>
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakMallik&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=PalakMallik&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"/>
+
+</p>
+
+---
 ## 🌐 Connect With Me
 
 <p align="center">
