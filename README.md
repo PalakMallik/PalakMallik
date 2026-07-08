@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Palak Mallik</h1>
-<h3 align="center">🤖 AI Engineer Aspirant | 🐍 Python Developer | 📈 Data & AI Enthusiast</h3>
 
+<h3 align="center">
+🤖 AI Engineer Aspirant | 🐍 Python Developer | 📈 Data & AI Enthusiast
+</h3>
 
 ---
 
@@ -35,29 +37,34 @@
 ## 📌 Featured Projects
 
 ### 🎮 Hand Gesture Control Presenter
-AI-powered gesture recognition system to control Google Slides using hand gestures with OpenCV & MediaPipe.  
 
-**Tech:** Python, OpenCV, MediaPipe, PyAutoGUI  
+AI-powered gesture recognition system to control Google Slides using hand gestures with OpenCV & MediaPipe.
+
+**Tech:** Python, OpenCV, MediaPipe, PyAutoGUI
+
 🔗 https://github.com/PalakMallik/hand-gesture-control
 
 ---
 
 ### 💳 Credit Card Fraud Detection
-Machine Learning project for identifying fraudulent transactions using classification models.  
+
+Machine Learning project for identifying fraudulent transactions using classification models.
 
 🔗 https://github.com/PalakMallik/Credit-Card-Fraud-Detection
 
 ---
 
 ### 📊 Netflix EDA
-Exploratory Data Analysis project uncovering insights from Netflix datasets using Python.  
+
+Exploratory Data Analysis project uncovering insights from Netflix datasets using Python.
 
 🔗 https://github.com/PalakMallik/Netflix_EDA
 
 ---
 
 ### 🎵 Spotify Power BI Dashboard
-Interactive dashboard visualizing Spotify streaming trends and analytics.  
+
+Interactive dashboard visualizing Spotify streaming trends and analytics.
 
 🔗 https://github.com/PalakMallik/spotify-powerbi-dashboard
 
@@ -67,11 +74,21 @@ Interactive dashboard visualizing Spotify streaming trends and analytics.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PalakMallik&show_icons=true&theme=tokyonight" alt="stats"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=PalakMallik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PalakMallik&theme=tokyonight" alt="streak"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakMallik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+alt="Top Languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakMallik&layout=compact&theme=tokyonight" alt="languages"/>
+</p>
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=PalakMallik&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"/>
 
 </p>
 
@@ -81,14 +98,22 @@ Interactive dashboard visualizing Spotify streaming trends and analytics.
 
 <p align="left">
 
-<a href="https://github.com/PalakMallik" target="[blank](https://github.com/PalakMallik)">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+<a href="https://github.com/PalakMallik" target="_blank">
+<img align="center"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+alt="GitHub"
+height="35"
+width="35"/>
 </a>
 
-<a href="https://www.linkedin.com/" target="www.linkedin.com/in/
-palak-mallik
-">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/palak-mallik/" target="_blank">
+<img align="center"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+alt="LinkedIn"
+height="35"
+width="35"/>
 </a>
 
 </p>
