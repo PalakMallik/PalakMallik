@@ -76,7 +76,7 @@ Machine Learning project for identifying fraudulent transactions using classific
 
 Exploratory Data Analysis project uncovering insights from Netflix datasets.
 
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, SeaBorn
 
 ---
 
