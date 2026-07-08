@@ -56,45 +56,35 @@
 
 # 📌 Featured Projects
 
-## 🎮 Hand Gesture Control Presenter
+### 🎮 [Hand Gesture Control Presenter](https://github.com/PalakMallik/hand-gesture-control)
 
 AI-powered gesture recognition system to control Google Slides using hand gestures.
 
 **Tech Stack:** Python, OpenCV, MediaPipe, PyAutoGUI
 
-🔗 https://github.com/PalakMallik/hand-gesture-control
-
 ---
 
-## 💳 Credit Card Fraud Detection
+### 💳 [Credit Card Fraud Detection](https://github.com/PalakMallik/Credit-Card-Fraud-Detection)
 
 Machine Learning project for identifying fraudulent transactions using classification models.
 
-🔗 https://github.com/PalakMallik/Credit-Card-Fraud-Detection
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
 ---
 
-## 📊 Netflix EDA
+### 📊 [Netflix EDA](https://github.com/PalakMallik/Netflix_EDA)
 
 Exploratory Data Analysis project uncovering insights from Netflix datasets.
 
-🔗 https://github.com/PalakMallik/Netflix_EDA
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib
 
 ---
 
-## 🎵 Spotify Power BI Dashboard
+### 🎵 [Spotify Power BI Dashboard](https://github.com/PalakMallik/spotify-powerbi-dashboard)
 
-Interactive dashboard visualizing Spotify streaming trends.
+Interactive dashboard visualizing Spotify streaming trends and analytics.
 
-🔗 https://github.com/PalakMallik/spotify-powerbi-dashboard
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=PalakMallik&theme=tokyonight&hide_border=true"/>
+**Tech Stack:** Power BI, DAX, Data Visualization
 
 </p>
 
