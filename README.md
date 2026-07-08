@@ -100,18 +100,20 @@ Interactive dashboard visualizing Spotify streaming trends.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/PalakMallik" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/>
+ GitHub
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/palak-mallik/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>
+ LinkedIn
 </a>
 
 </p>
