@@ -76,7 +76,7 @@ Machine Learning project for identifying fraudulent transactions using classific
 
 ---
 
-### 📊 [Netflix EDA](https://github.com/PalakMallik/Netflix_EDA)
+### 📊 [Netflix Data Analysis](https://github.com/PalakMallik/Netflix_EDA)
 
 Exploratory Data Analysis project uncovering insights from Netflix datasets.
 
