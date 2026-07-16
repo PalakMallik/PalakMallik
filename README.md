@@ -31,12 +31,10 @@
 
 🌱 Currently learning:
 
-- Advanced AI
+- Artificial Intelligence
 - Deep Learning
 - Model Deployment
 - System Design Fundamentals
-
-🎯 **Career Goal:** Become an AI Engineer building intelligent products that create real-world impact.
 
 ⚡ I enjoy transforming innovative ideas into practical AI-powered solutions.
 
@@ -172,7 +170,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakMallik&
 
 ✨ <b>Thanks for visiting my profile!</b> ✨
 
-<br><br>
+<br>
 
 <!-- =====================================================
      ⭐ If you like my work, consider giving a star to my repositories!
