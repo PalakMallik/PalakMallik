@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Palak Mallik</h1>
 
 <h3 align="center">
-🤖 AI Engineer Aspirant | 🐍 Python Developer | 📈 Data & AI Enthusiast
+🤖 AI Engineer Aspirant • 📈 Data & AI Enthusiast
+</h3>
+
+<h3 align="center">
+🎓 MCA Student @ MATS University (2025–2027)
 </h3>
 
 <p align="center">
@@ -9,16 +13,32 @@
 <b>— Alan Kay</b>
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+Aspirant;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Building+Real-World+AI+Projects;Always+Learning+New+Technologies+🚀" />
+</p>
+
 ---
 
 # 🚀 About Me
 
-- 💻 Passionate about building real-world AI & Python projects
-- 🤖 Exploring Artificial Intelligence, Machine Learning & Computer Vision
-- 📊 Skilled in Python, SQL, Power BI and Data Analysis
-- 🌱 Currently learning Advanced AI, Deep Learning and Deployment
-- 🎯 Aspiring AI Engineer
-- ⚡ I enjoy building intelligent systems that solve real-world problems
+🎓 MCA Student at **MATS University, Raipur** *(2025–2027)*
+
+💡 Passionate about building real-world Artificial Intelligence applications.
+
+🤖 Exploring **Artificial Intelligence, Machine Learning, Deep Learning & Computer Vision**.
+
+📊 Skilled in **Python, SQL, Power BI, Data Analysis and Machine Learning**.
+
+🌱 Currently learning:
+
+- Advanced AI
+- Deep Learning
+- Model Deployment
+- System Design Fundamentals
+
+🎯 **Career Goal:** Become an AI Engineer building intelligent products that create real-world impact.
+
+⚡ I enjoy transforming innovative ideas into practical AI-powered solutions.
 
 ---
 
@@ -62,67 +82,70 @@
 
 ### 🎮 [Hand Gesture Control Presenter](https://github.com/PalakMallik/hand-gesture-control)
 
-AI-powered gesture recognition system to control Google Slides using hand gestures.
+AI-powered gesture recognition system that controls Google Slides using intuitive hand gestures.
 
-**Tech Stack:** Python, OpenCV, MediaPipe, PyAutoGUI
+**Tech Stack:** Python • OpenCV • MediaPipe • PyAutoGUI
 
 ---
 
 ### 💳 [Credit Card Fraud Detection](https://github.com/PalakMallik/Credit-Card-Fraud-Detection)
 
-Machine Learning project for identifying fraudulent transactions using classification models.
+Machine Learning project for identifying fraudulent transactions using classification algorithms.
 
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Matplotlib
 
 ---
 
 ### 📊 [Netflix Data Analysis](https://github.com/PalakMallik/Netflix_EDA)
 
-Exploratory Data Analysis project uncovering insights from Netflix datasets.
+Exploratory Data Analysis project uncovering trends and insights from Netflix datasets.
 
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
 ---
 
 ### 🎵 [Spotify Power BI Dashboard](https://github.com/PalakMallik/spotify-powerbi-dashboard)
 
-Interactive dashboard visualizing Spotify streaming trends and analytics.
+Interactive Power BI dashboard visualizing Spotify streaming trends and analytics.
 
-**Tech Stack:** Power BI, DAX, Data Visualization
-
-</p>
+**Tech Stack:** Power BI • DAX • Data Visualization
 
 ---
 
----
+<!-- =====================================================
+     GitHub Stats
+     Commented because the public API is sometimes unreliable.
+     Uncomment whenever it becomes stable.
+====================================================== -->
+
+<!--
 
 # 📈 GitHub Stats
 
 <p align="center">
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=PalakMallik&show_icons=true&theme=tokyonight&hide_border=true"
-alt="GitHub Stats"/>
+src="https://github-readme-stats.vercel.app/api?username=PalakMallik&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakMallik&layout=compact&theme=tokyonight&hide_border=true"
-alt="Top Languages"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakMallik&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
+
+-->
 
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=PalakMallik&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=PalakMallik&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -131,22 +154,34 @@ alt="GitHub Streak"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/palak-mallik/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://palakmallik-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# ✨ Fun Fact
+# 💡 Fun Fact
 
-> I enjoy building AI-powered projects that combine creativity, automation and real-world problem solving. 🚀
+> 🚀 I enjoy building AI-powered projects that combine creativity, automation, and real-world problem solving.
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+✨ <b>Thanks for visiting my profile!</b> ✨
+
+<br><br>
+
+⭐ If you like my work, consider giving a star to my repositories!
 
 </p>
