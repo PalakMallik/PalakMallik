@@ -159,16 +159,16 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakMallik&
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/PalakMallik">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-     
   <a href="https://www.linkedin.com/in/palak-mallik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
+
   <a href="https://palakmallik-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="https://github.com/PalakMallik/PalakMallik/raw/main/palak-mallik-resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
