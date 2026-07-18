@@ -148,12 +148,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakMallik&
 
 -->
 
-# 🔥 GitHub Streak
+<h2>🔥 GitHub Streak</h2>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=PalakMallik&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=PalakMallik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
