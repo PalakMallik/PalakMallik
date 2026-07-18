@@ -148,7 +148,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakMallik&
 
 -->
 
-<h2>🔥 GitHub Streak</h2>
+# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PalakMallik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -156,7 +156,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakMallik&
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/PalakMallik">
