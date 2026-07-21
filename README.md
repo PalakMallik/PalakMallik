@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Palak Mallik</h1>
 
 <h3 align="center">
-🤖 AI Engineer Aspirant • 📈 Data & AI Enthusiast
+🤖 Data Science Explorer • 📈 Data & AI Enthusiast
 </h3>
 
 <h3 align="center">
