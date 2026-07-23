@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=700&lines=Data+Science+Explorer;Machine+Learning+Enthusiast;Building+Real-World+AI+Projects;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=700&lines=Data+Science+Explorer;Machine+Learning+Enthusiast;Building+Real-World+AI+Projects;Always+Learning+New+Technologies" />
 </p>
 ---
 
