@@ -24,7 +24,7 @@
 
 💡 Passionate about building real-world Artificial Intelligence applications.
 
-🤖 Exploring **Artificial Intelligence, Machine Learning, Deep Learning**.
+🤖 Exploring **Artificial Intelligence, Machine Learning and Deep Learning**.
 
 📊 Skilled in **Python, SQL, Power BI, Data Analysis and Machine Learning**.
 
