@@ -9,8 +9,8 @@
 </h3>
 
 <p align="center">
-<i>"The best way to predict the future is to invent it."</i><br>
-<b>— Alan Kay</b>
+<i>""First, solve the problem. Then, write the code.""</i><br>
+<b> — John Johnson</b>
 </p>
 
 <p align="center">
