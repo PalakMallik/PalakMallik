@@ -167,8 +167,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakMallik&
   </a>
 
   <a href="https://github.com/PalakMallik/PalakMallik/raw/main/palak-mallik-resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
-  </a>
+    <!-- <img src="https://img.shields.io/badge/Resume-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/> -->
+  <!-- </a> -->
 </p>
 
 ---
